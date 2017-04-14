@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.4.0)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - DAAlertController (0.1.4)
+  - DAKeyboardControl (2.4.0)
+  - DateToolsSwift (2.0.3)
+  - FLAnimatedImage (1.0.12)
+  - Hero (0.3.6)
+  - MagicMapper (1.0.2)
+  - NVActivityIndicatorView (3.6.0)
+  - PINCache (2.3)
+  - PINRemoteImage (2.1.4):
+    - PINRemoteImage/FLAnimatedImage (= 2.1.4)
+  - PINRemoteImage/Core (2.1.4):
+    - PINCache (>= 2.1)
+  - PINRemoteImage/FLAnimatedImage (2.1.4):
+    - FLAnimatedImage (>= 1.0)
+    - PINRemoteImage/Core
+  - PKHUD (4.2.1)
+  - PullToRefreshSwift (3.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - ChameleonFramework/Swift
+  - DAAlertController
+  - DAKeyboardControl
+  - DateToolsSwift
+  - Hero
+  - MagicMapper
+  - NVActivityIndicatorView
+  - PINRemoteImage
+  - PKHUD
+  - PullToRefreshSwift
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  DAAlertController: 4735313ec65d3d69f81fdd34d01308809680350f
+  DAKeyboardControl: 9d9bca22a5cc3c1d3cc61e24fbd208c3e84a3d2d
+  DateToolsSwift: bf69bf9056d9e53c5c03f06e51f219b9b8b02f9e
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Hero: d3c6f4dd80cdcdbb339be64e57ae3b5c3ab9938c
+  MagicMapper: 1909d0e15b7a3ef7faec2c5e30791eed0815e934
+  NVActivityIndicatorView: c7c1c4300b418bd9ed06459e78d4df859ddbe31f
+  PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
+  PINRemoteImage: 4ac4011c5caefd6befd99758e09becede05d3226
+  PKHUD: 957ce2a68b3c97a51839b30216120c1dbc0c3a78
+  PullToRefreshSwift: 0743b818072bfd7c9464addc2d1b987b131057ca
+
+PODFILE CHECKSUM: 1a511ce4bfe620f67d38c4bab9f77919f106d88b
+
+COCOAPODS: 1.2.0
