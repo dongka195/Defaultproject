@@ -9,11 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>ChameleonFramework.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>DAAlertController-DAAlertController.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -102,7 +97,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>76BD4592010354D6C23D6ECCA20D83A8</key>
+		<key>6FC85B278994384F0D2B3E134A808C01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7EA415738EA5D200FE7DBC10DB7154F6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -118,11 +118,6 @@
 			<true/>
 		</dict>
 		<key>A02EE1452A6B9ED8895E739554320B81</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A6BD2F61DA7755B4BB225EEDA860767E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -143,11 +138,6 @@
 			<true/>
 		</dict>
 		<key>DAE199E4078A7B5260074DF4597EEFF0</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E319DFCA11473A35D2012E159BE1BDA4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

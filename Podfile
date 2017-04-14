@@ -13,8 +13,7 @@ target 'SampleProject' do
   pod "DAAlertController"
   pod 'Hero'
   pod 'NVActivityIndicatorView'  
-  pod 'DateToolsSwift'
-  pod 'ChameleonFramework/Swift'  
+  pod 'DateToolsSwift'  
   #Pod for GIF
   #https://github.com/pinterest/PINRemoteImage	 
   pod 'PINRemoteImage'
